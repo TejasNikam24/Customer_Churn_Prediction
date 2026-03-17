@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+langchain
+langchain-huggingface
+huggingface_hub
