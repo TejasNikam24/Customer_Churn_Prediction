@@ -16,8 +16,8 @@ from langchain_huggingface import HuggingFaceEndpoint
 # -----------------------------
 # LOAD MODEL & COLUMNS
 # -----------------------------
-model = joblib.load("models/churn_model.pkl")
-columns = joblib.load("models/columns.pkl")
+model = joblib.load("churn_model.pkl")
+columns = joblib.load("columns.pkl")
 
 # -----------------------------
 # LOAD FREE HUGGINGFACE MODEL
